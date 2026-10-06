@@ -24,7 +24,7 @@ Possui a documentação do banco. Contém relacionamentos `n:n`.
 - Luiz Eduardo Bezerra de Jesus
 - Maria Clara de Sousa Rosa
 - Maria Eduarda Cardoso do Nascimento
-- Matheus de Oliveira Paiva
+- Matheus de Oliveira Paiva [@matheuspaiva1-design] (https://github.com/matheuspaiva1-design)
 - Monique Almeida Alves
 - Pedro Felipe Rosa dos Santos
 - Pedro Henrique Pereira de Lima Cordeiro
